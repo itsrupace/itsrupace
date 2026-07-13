@@ -14,7 +14,7 @@
 - 🔭 Recently built an **EV Charging Station Locator** — a full-stack web app that helps users find nearby charging stations using distance-based filtering
 - 🌱 Always learning new tools and frameworks in the JS ecosystem
 - 💬 Ask me about Vue.js, Node.js, Express, MongoDB, or JavaScript in general
-- 📫 How to reach me: **<your-email@example.com>**
+- 📫 How to reach me: **<rupace789@gmail.com>**
 - 🔗 Portfolio: **<your-portfolio-link>**
 
 ---
