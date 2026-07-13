@@ -14,7 +14,7 @@
 - 🔭 Recently built an **EV Charging Station Locator** — a full-stack web app that helps users find nearby charging stations using distance-based filtering
 - 🌱 Always learning new tools and frameworks in the JS ecosystem
 - 💬 Ask me about Vue.js, Node.js, Express, MongoDB, or JavaScript in general
-- 📫 How to reach me: **<rupace789@gmail.com>**
+- 📫 How to reach me: **<workwithrupace@gmail.com>**
 - 🔗 Portfolio: **<your-portfolio-link>**
 
 ---
@@ -51,19 +51,19 @@ A full-stack web application that helps users locate nearby EV charging stations
 - **Database:** MongoDB
 - **Highlights:** Location-based search, clean UI, RESTful API design
 
-🔗 [View Repository](https://github.com/<your-username>/<repo-name>)
+🔗 [View Repository](https://github.com/<itsrupace>/<repo-name>)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=<itsrupace>&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<itsrupace>" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<itsrupace>&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -72,7 +72,7 @@ A full-stack web application that helps users locate nearby EV charging stations
 
 <p align="left">
   <a href="https://linkedin.com/in/<your-linkedin>" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:workwithrupace.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">⭐️ Thanks for stopping by my profile!</p>
