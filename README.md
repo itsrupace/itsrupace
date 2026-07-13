@@ -56,12 +56,7 @@ A full-stack web application that helps users locate nearby EV charging stations
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsrupace&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrupace" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrupace&layout=compact" alt="Top Languages" />
 </p>
 
 ---
